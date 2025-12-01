@@ -25,3 +25,14 @@ for index, value in enumerate(fruits):
 -   It makes code **clean and readable**
 -   You don't need to manually manage a counter
 -   Very useful in **automation and data processing**
+
+### 🔹 Tip: Customize the starting index
+
+You can also change the starting index by passing a second argument to `enumerate()`:
+
+``` python
+for index, value in enumerate(fruits, start=1):
+    print(index, value)
+```
+
+This will print indexes starting from 1 instead of 0.
