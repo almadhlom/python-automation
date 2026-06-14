@@ -1,5 +1,13 @@
 # python-automation
 
+
+⚠️ Auto-generated issue.
+
+If the mentioned files or features do not exist in the repository, please comment first before starting work.
+
+
+
+
 ## ✅ Python Tip: Use enumerate() for index and value in loops 
 
 The `enumerate()` function is used when you want both the **index** and
